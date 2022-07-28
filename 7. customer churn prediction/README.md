@@ -40,6 +40,8 @@
 2. Параметры модели: max_depth=5, random_state=12345
 3. Значение F1 = 0.591
 4. Площадь под ROC-кривой: 0.822
+
+![image](https://user-images.githubusercontent.com/104613549/181459074-a2d9f156-715a-4547-91d4-3a0ef10e19e1.png)
  
  ## Статус проекта
  `Завершен`

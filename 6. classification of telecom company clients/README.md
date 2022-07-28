@@ -15,6 +15,10 @@
 
 ## Результаты исследования
 
+**В результате предварительного анализа изучена корреляция в данных**
+
+![image](https://user-images.githubusercontent.com/104613549/181458280-b736f6a5-0fe4-4645-82da-ab14a8c4c72f.png)
+
 **В результате моделирования, установлено:**
 1. Accuracy модели DecisionTreeClassifier(max_depth=3, random_state=12345) на валидационной выборке: 0.785
 2. Accuracy модели RandomForestClassifier(max_depth=5, n_estimators=8, random_state=12345) на валидационной выборке: 0.793
